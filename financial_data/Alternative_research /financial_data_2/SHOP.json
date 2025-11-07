@@ -1,0 +1,2612 @@
+{
+  "ticker": "SHOP",
+  "cik": "0001594805",
+  "financials_by_fy": {
+    "2024": {
+      "Revenues": {
+        "chosen": {
+          "source": "primary",
+          "tag": "Revenues",
+          "value": 5600000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "primary": {
+          "tag": "Revenues",
+          "value": 5600000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "GrossProfit",
+            "value": 2754000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "ContractWithCustomerLiabilityRevenueRecognized",
+            "value": 279000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": "2023-01-01"
+          },
+          {
+            "tag": "OperatingIncomeLoss",
+            "value": -822000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "NonoperatingIncomeExpense",
+            "value": -2801000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "OperatingExpenses",
+            "value": 3576000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          }
+        ]
+      },
+      "NetIncomeLoss": {
+        "chosen": {
+          "source": "primary",
+          "tag": "NetIncomeLoss",
+          "value": -3460000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "primary": {
+          "tag": "NetIncomeLoss",
+          "value": -3460000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+            "value": -10000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "ComprehensiveIncomeNetOfTax",
+            "value": -3470000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "IncomeTaxReconciliationStateAndLocalIncomeTaxes",
+            "value": 0,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "IncomeTaxesPaidNet",
+            "value": 27000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "IncomeTaxReconciliationOtherAdjustments",
+            "value": 5000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "IncomeTaxReconciliationForeignIncomeTaxRateDifferential",
+            "value": -36000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          }
+        ]
+      },
+      "EarningsPerShareBasic": {
+        "chosen": {
+          "source": "primary",
+          "tag": "EarningsPerShareBasic",
+          "value": -2.73,
+          "unit": "USD/shares",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "primary": {
+          "tag": "EarningsPerShareBasic",
+          "value": -2.73,
+          "unit": "USD/shares",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "EarningsPerShareDiluted",
+            "value": -2.73,
+            "unit": "USD/shares",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageExercisePrice",
+            "value": 57.89,
+            "unit": "USD/shares",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": "2023-01-01"
+          },
+          {
+            "tag": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageGrantDateFairValue",
+            "value": 30.08,
+            "unit": "USD/shares",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": "2023-01-01"
+          }
+        ]
+      },
+      "EarningsPerShareDiluted": {
+        "chosen": {
+          "source": "primary",
+          "tag": "EarningsPerShareDiluted",
+          "value": -2.73,
+          "unit": "USD/shares",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "primary": {
+          "tag": "EarningsPerShareDiluted",
+          "value": -2.73,
+          "unit": "USD/shares",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "EarningsPerShareBasic",
+            "value": -2.73,
+            "unit": "USD/shares",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageExercisePrice",
+            "value": 57.89,
+            "unit": "USD/shares",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": "2023-01-01"
+          }
+        ]
+      },
+      "OperatingIncomeLoss": {
+        "chosen": {
+          "source": "primary",
+          "tag": "OperatingIncomeLoss",
+          "value": -822000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "primary": {
+          "tag": "OperatingIncomeLoss",
+          "value": -822000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "IncreaseDecreaseInOtherOperatingAssets",
+            "value": 31000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "value": -136000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "OperatingExpenses",
+            "value": 3576000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "NetIncomeLoss",
+            "value": -3460000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "OperatingLeasePayments",
+            "value": 34000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": "2023-01-01"
+          },
+          {
+            "tag": "GrossProfit",
+            "value": 2754000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          }
+        ]
+      },
+      "GrossProfit": {
+        "chosen": {
+          "source": "primary",
+          "tag": "GrossProfit",
+          "value": 2754000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "primary": {
+          "tag": "GrossProfit",
+          "value": 2754000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "CostOfGoodsAndServicesSold",
+            "value": 2846000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "OperatingExpenses",
+            "value": 3576000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "ContractWithCustomerLiabilityRevenueRecognized",
+            "value": 279000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": "2023-01-01"
+          },
+          {
+            "tag": "OperatingIncomeLoss",
+            "value": -822000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "NetIncomeLoss",
+            "value": -3460000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "AdvertisingExpense",
+            "value": 505000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "value": -136000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          }
+        ]
+      },
+      "ResearchAndDevelopmentExpense": {
+        "chosen": {
+          "source": "primary",
+          "tag": "ResearchAndDevelopmentExpense",
+          "value": 1503000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "primary": {
+          "tag": "ResearchAndDevelopmentExpense",
+          "value": 1503000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "GoodwillImpairmentLoss",
+            "value": 1438000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": "2023-01-01"
+          },
+          {
+            "tag": "GoodwillAcquiredDuringPeriod",
+            "value": 29000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": "2023-01-01"
+          },
+          {
+            "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+            "value": 1754000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "NonoperatingIncomeExpense",
+            "value": -2801000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "AmortizationOfIntangibleAssets",
+            "value": 54000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "DepreciationDepletionAndAmortization",
+            "value": 93000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "AdvertisingExpense",
+            "value": 505000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          }
+        ]
+      },
+      "SellingGeneralAndAdministrativeExpense": {
+        "chosen": {
+          "source": "alternative",
+          "tag": "CostOfGoodsAndServicesSold",
+          "value": 2846000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "primary": null,
+        "alternatives": [
+          {
+            "tag": "OperatingExpenses",
+            "value": 3576000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "GrossProfit",
+            "value": 2754000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "AdvertisingExpense",
+            "value": 505000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "OperatingIncomeLoss",
+            "value": -822000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "CostOfGoodsAndServicesSold",
+            "value": 2846000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          }
+        ]
+      },
+      "Assets": {
+        "chosen": {
+          "source": "primary",
+          "tag": "Assets",
+          "value": 11299000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2023-12-31",
+          "start": null
+        },
+        "primary": {
+          "tag": "Assets",
+          "value": 11299000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2023-12-31",
+          "start": null
+        },
+        "alternatives": [
+          {
+            "tag": "AssetsCurrent",
+            "value": 6275000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "OperatingLeaseRightOfUseAsset",
+            "value": 98000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "Goodwill",
+            "value": 1836000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": null
+          },
+          {
+            "tag": "OtherAssetsCurrent",
+            "value": 1000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "DeferredTaxAssetsValuationAllowance",
+            "value": 1039000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "OtherAssetsNoncurrent",
+            "value": 0,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "FiniteLivedIntangibleAssetsNet",
+            "value": 11000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2024-12-31",
+            "start": null
+          },
+          {
+            "tag": "DeferredTaxAssetsOther",
+            "value": 1000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "FiniteLivedIntangibleAssetsAmortizationExpenseNextTwelveMonths",
+            "value": 7000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2024-12-31",
+            "start": null
+          }
+        ]
+      },
+      "Liabilities": {
+        "chosen": {
+          "source": "alternative",
+          "tag": "DeferredIncomeTaxLiabilities",
+          "value": 220000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2023-12-31",
+          "start": null
+        },
+        "primary": null,
+        "alternatives": [
+          {
+            "tag": "Assets",
+            "value": 11299000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "AssetsCurrent",
+            "value": 6275000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "ContractWithCustomerLiability",
+            "value": 564000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": null
+          },
+          {
+            "tag": "LiabilitiesNoncurrent",
+            "value": 1335000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "OperatingLeaseLiabilityCurrent",
+            "value": 17000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "ContractWithCustomerLiabilityCurrent",
+            "value": 296000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-01-01",
+            "start": null
+          },
+          {
+            "tag": "OperatingLeaseLiabilityNoncurrent",
+            "value": 217000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "Goodwill",
+            "value": 1836000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": null
+          },
+          {
+            "tag": "DeferredTaxLiabilitiesOther",
+            "value": 4000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "DeferredIncomeTaxLiabilities",
+            "value": 220000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          }
+        ]
+      },
+      "StockholdersEquity": {
+        "chosen": {
+          "source": "primary",
+          "tag": "StockholdersEquity",
+          "value": 11133000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2021-12-31",
+          "start": null
+        },
+        "primary": {
+          "tag": "StockholdersEquity",
+          "value": 11133000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2021-12-31",
+          "start": null
+        },
+        "alternatives": [
+          {
+            "tag": "LiabilitiesAndStockholdersEquity",
+            "value": 11299000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "RetainedEarningsAccumulatedDeficit",
+            "value": -390000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "DeferredTaxLiabilitiesOther",
+            "value": 4000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "DeferredIncomeTaxLiabilities",
+            "value": 220000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "DeferredTaxAssetsOther",
+            "value": 1000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "DeferredTaxAssetsGross",
+            "value": 1297000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "DeferredTaxAssetsNet",
+            "value": 258000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          }
+        ]
+      },
+      "CashAndCashEquivalentsAtCarryingValue": {
+        "chosen": {
+          "source": "primary",
+          "tag": "CashAndCashEquivalentsAtCarryingValue",
+          "value": 1413000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2023-12-31",
+          "start": null
+        },
+        "primary": {
+          "tag": "CashAndCashEquivalentsAtCarryingValue",
+          "value": 1413000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2023-12-31",
+          "start": null
+        },
+        "alternatives": [
+          {
+            "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+            "value": 2503000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2021-12-31",
+            "start": null
+          },
+          {
+            "tag": "RestrictedCash",
+            "value": 8000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "AssetsNoncurrent",
+            "value": 5024000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": null
+          }
+        ]
+      },
+      "NetCashProvidedByUsedInOperatingActivities": {
+        "chosen": {
+          "source": "primary",
+          "tag": "NetCashProvidedByUsedInOperatingActivities",
+          "value": -136000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "primary": {
+          "tag": "NetCashProvidedByUsedInOperatingActivities",
+          "value": -136000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "NetCashProvidedByUsedInInvestingActivities",
+            "value": -719000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "PaymentsForProceedsFromOtherInvestingActivities",
+            "value": 0,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "NetCashProvidedByUsedInFinancingActivities",
+            "value": 18000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+            "value": -854000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "NonoperatingIncomeExpense",
+            "value": -2801000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "OperatingIncomeLoss",
+            "value": -822000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+            "value": 1754000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "InterestPaidNet",
+            "value": 1000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "OperatingLeasePayments",
+            "value": 34000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": "2023-01-01"
+          }
+        ]
+      },
+      "PaymentsToAcquirePropertyPlantAndEquipment": {
+        "chosen": {
+          "source": "primary",
+          "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "value": 50000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "primary": {
+          "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "value": 50000000,
+          "unit": "USD",
+          "fy": 2024,
+          "fp": "FY",
+          "form": "10-K",
+          "filed": "2025-02-11",
+          "accn": "0001594805-25-000012",
+          "end": "2022-12-31",
+          "start": "2022-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+            "value": 1754000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "NetCashProvidedByUsedInInvestingActivities",
+            "value": -719000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2022-12-31",
+            "start": "2022-01-01"
+          },
+          {
+            "tag": "OperatingLeasePayments",
+            "value": 34000000,
+            "unit": "USD",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2025-02-11",
+            "accn": "0001594805-25-000012",
+            "end": "2023-12-31",
+            "start": "2023-01-01"
+          }
+        ]
+      },
+      "LongTermDebt": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "ShortTermInvestments": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "CostOfRevenue": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "OperatingExpenses": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "IncomeTaxExpenseBenefit": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "AccountsReceivableNetCurrent": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "_meta": {
+        "frequency": "annual"
+      },
+      "FreeCashFlow": {
+        "chosen": {
+          "value": -186000000,
+          "unit": "USD",
+          "formula": "FreeCashFlow = OCF - abs(CapEx)",
+          "derived_from": [
+            {
+              "metric": "NetCashProvidedByUsedInOperatingActivities",
+              "source": "primary",
+              "tag": "NetCashProvidedByUsedInOperatingActivities",
+              "value": -136000000,
+              "unit": "USD",
+              "fy": 2024,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2025-02-11",
+              "accn": "0001594805-25-000012",
+              "end": "2022-12-31",
+              "start": "2022-01-01"
+            },
+            {
+              "metric": "PaymentsToAcquirePropertyPlantAndEquipment",
+              "source": "primary",
+              "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+              "value": 50000000,
+              "unit": "USD",
+              "fy": 2024,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2025-02-11",
+              "accn": "0001594805-25-000012",
+              "end": "2022-12-31",
+              "start": "2022-01-01"
+            }
+          ],
+          "source": "derived"
+        }
+      }
+    },
+    "2025": {
+      "Revenues": {
+        "chosen": {
+          "source": "primary",
+          "tag": "Revenues",
+          "value": 3906000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "primary": {
+          "tag": "Revenues",
+          "value": 3906000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "GrossProfit",
+            "value": 2002000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "ContractWithCustomerLiabilityRevenueRecognized",
+            "value": 196000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "OperatingIncomeLoss",
+            "value": 327000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "NonoperatingIncomeExpense",
+            "value": -380000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "OperatingExpenses",
+            "value": 1675000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          }
+        ]
+      },
+      "NetIncomeLoss": {
+        "chosen": {
+          "source": "primary",
+          "tag": "NetIncomeLoss",
+          "value": -102000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "primary": {
+          "tag": "NetIncomeLoss",
+          "value": -102000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+            "value": -9000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "ComprehensiveIncomeNetOfTax",
+            "value": -281000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-03-31",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "IncomeTaxesPaidNet",
+            "value": 49000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          }
+        ]
+      },
+      "EarningsPerShareBasic": {
+        "chosen": {
+          "source": "primary",
+          "tag": "EarningsPerShareBasic",
+          "value": -0.08,
+          "unit": "USD/shares",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "primary": {
+          "tag": "EarningsPerShareBasic",
+          "value": -0.08,
+          "unit": "USD/shares",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "EarningsPerShareDiluted",
+            "value": -0.08,
+            "unit": "USD/shares",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageExercisePrice",
+            "value": 121.97,
+            "unit": "USD/shares",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2025-06-30",
+            "start": "2025-01-01"
+          },
+          {
+            "tag": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageGrantDateFairValue",
+            "value": 63.33,
+            "unit": "USD/shares",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2025-06-30",
+            "start": "2025-01-01"
+          }
+        ]
+      },
+      "EarningsPerShareDiluted": {
+        "chosen": {
+          "source": "primary",
+          "tag": "EarningsPerShareDiluted",
+          "value": -0.08,
+          "unit": "USD/shares",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "primary": {
+          "tag": "EarningsPerShareDiluted",
+          "value": -0.08,
+          "unit": "USD/shares",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "EarningsPerShareBasic",
+            "value": -0.08,
+            "unit": "USD/shares",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageExercisePrice",
+            "value": 121.97,
+            "unit": "USD/shares",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2025-06-30",
+            "start": "2025-01-01"
+          }
+        ]
+      },
+      "OperatingIncomeLoss": {
+        "chosen": {
+          "source": "primary",
+          "tag": "OperatingIncomeLoss",
+          "value": 327000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "primary": {
+          "tag": "OperatingIncomeLoss",
+          "value": 327000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "value": 578000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "OperatingExpenses",
+            "value": 1675000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "NetIncomeLoss",
+            "value": -102000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "GrossProfit",
+            "value": 2002000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          }
+        ]
+      },
+      "GrossProfit": {
+        "chosen": {
+          "source": "primary",
+          "tag": "GrossProfit",
+          "value": 2002000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "primary": {
+          "tag": "GrossProfit",
+          "value": 2002000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "CostOfGoodsAndServicesSold",
+            "value": 1904000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "OperatingExpenses",
+            "value": 1675000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "ContractWithCustomerLiabilityRevenueRecognized",
+            "value": 196000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "OperatingIncomeLoss",
+            "value": 327000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "NetIncomeLoss",
+            "value": -102000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "value": 578000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          }
+        ]
+      },
+      "ResearchAndDevelopmentExpense": {
+        "chosen": {
+          "source": "primary",
+          "tag": "ResearchAndDevelopmentExpense",
+          "value": 684000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "primary": {
+          "tag": "ResearchAndDevelopmentExpense",
+          "value": 684000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "GoodwillAcquiredDuringPeriod",
+            "value": 25000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+            "value": 26000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "NonoperatingIncomeExpense",
+            "value": -380000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "AmortizationOfIntangibleAssets",
+            "value": 8000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "DepreciationDepletionAndAmortization",
+            "value": 20000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          }
+        ]
+      },
+      "SellingGeneralAndAdministrativeExpense": {
+        "chosen": {
+          "source": "alternative",
+          "tag": "CostOfGoodsAndServicesSold",
+          "value": 1904000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "primary": null,
+        "alternatives": [
+          {
+            "tag": "OperatingExpenses",
+            "value": 1675000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "GrossProfit",
+            "value": 2002000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "OperatingIncomeLoss",
+            "value": 327000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "CostOfGoodsAndServicesSold",
+            "value": 1904000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          }
+        ]
+      },
+      "Assets": {
+        "chosen": {
+          "source": "primary",
+          "tag": "Assets",
+          "value": 13924000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-12-31",
+          "start": null
+        },
+        "primary": {
+          "tag": "Assets",
+          "value": 13924000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-12-31",
+          "start": null
+        },
+        "alternatives": [
+          {
+            "tag": "AssetsCurrent",
+            "value": 7254000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": null
+          },
+          {
+            "tag": "OperatingLeaseRightOfUseAsset",
+            "value": 93000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": null
+          },
+          {
+            "tag": "Goodwill",
+            "value": 427000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "OtherAssetsNoncurrent",
+            "value": 21000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": null
+          },
+          {
+            "tag": "FiniteLivedIntangibleAssetsNet",
+            "value": 25000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2025-06-30",
+            "start": null
+          },
+          {
+            "tag": "FiniteLivedIntangibleAssetsAmortizationExpenseNextTwelveMonths",
+            "value": 9000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2025-06-30",
+            "start": null
+          }
+        ]
+      },
+      "Liabilities": {
+        "chosen": {
+          "source": "alternative",
+          "tag": "Goodwill",
+          "value": 427000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2023-12-31",
+          "start": null
+        },
+        "primary": null,
+        "alternatives": [
+          {
+            "tag": "Assets",
+            "value": 13924000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": null
+          },
+          {
+            "tag": "AssetsCurrent",
+            "value": 7254000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": null
+          },
+          {
+            "tag": "ContractWithCustomerLiability",
+            "value": 498000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "LiabilitiesNoncurrent",
+            "value": 410000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": null
+          },
+          {
+            "tag": "OperatingLeaseLiabilityCurrent",
+            "value": 18000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": null
+          },
+          {
+            "tag": "ContractWithCustomerLiabilityCurrent",
+            "value": 302000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-01-01",
+            "start": null
+          },
+          {
+            "tag": "OperatingLeaseLiabilityNoncurrent",
+            "value": 190000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": null
+          },
+          {
+            "tag": "Goodwill",
+            "value": 427000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2023-12-31",
+            "start": null
+          }
+        ]
+      },
+      "StockholdersEquity": {
+        "chosen": {
+          "source": "primary",
+          "tag": "StockholdersEquity",
+          "value": 9066000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2023-12-31",
+          "start": null
+        },
+        "primary": {
+          "tag": "StockholdersEquity",
+          "value": 9066000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2023-12-31",
+          "start": null
+        },
+        "alternatives": [
+          {
+            "tag": "LiabilitiesAndStockholdersEquity",
+            "value": 13924000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": null
+          },
+          {
+            "tag": "RetainedEarningsAccumulatedDeficit",
+            "value": 1629000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": null
+          }
+        ]
+      },
+      "CashAndCashEquivalentsAtCarryingValue": {
+        "chosen": {
+          "source": "primary",
+          "tag": "CashAndCashEquivalentsAtCarryingValue",
+          "value": 1498000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-12-31",
+          "start": null
+        },
+        "primary": {
+          "tag": "CashAndCashEquivalentsAtCarryingValue",
+          "value": 1498000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-12-31",
+          "start": null
+        },
+        "alternatives": [
+          {
+            "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+            "value": 1413000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2023-12-31",
+            "start": null
+          },
+          {
+            "tag": "AssetsNoncurrent",
+            "value": 6670000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-12-31",
+            "start": null
+          }
+        ]
+      },
+      "NetCashProvidedByUsedInOperatingActivities": {
+        "chosen": {
+          "source": "primary",
+          "tag": "NetCashProvidedByUsedInOperatingActivities",
+          "value": 578000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "primary": {
+          "tag": "NetCashProvidedByUsedInOperatingActivities",
+          "value": 578000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "NetCashProvidedByUsedInInvestingActivities",
+            "value": -451000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "PaymentsForProceedsFromOtherInvestingActivities",
+            "value": -2000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "NetCashProvidedByUsedInFinancingActivities",
+            "value": 6000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+            "value": 128000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "NonoperatingIncomeExpense",
+            "value": -380000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "OperatingIncomeLoss",
+            "value": 327000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+            "value": 26000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          }
+        ]
+      },
+      "PaymentsToAcquirePropertyPlantAndEquipment": {
+        "chosen": {
+          "source": "primary",
+          "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "value": 13000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "primary": {
+          "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+          "value": 13000000,
+          "unit": "USD",
+          "fy": 2025,
+          "fp": "Q2",
+          "form": "10-Q",
+          "filed": "2025-08-06",
+          "accn": "0001594805-25-000073",
+          "end": "2024-06-30",
+          "start": "2024-01-01"
+        },
+        "alternatives": [
+          {
+            "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+            "value": 26000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          },
+          {
+            "tag": "NetCashProvidedByUsedInInvestingActivities",
+            "value": -451000000,
+            "unit": "USD",
+            "fy": 2025,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-08-06",
+            "accn": "0001594805-25-000073",
+            "end": "2024-06-30",
+            "start": "2024-01-01"
+          }
+        ]
+      },
+      "LongTermDebt": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "ShortTermInvestments": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "CostOfRevenue": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "OperatingExpenses": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "IncomeTaxExpenseBenefit": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "AccountsReceivableNetCurrent": {
+        "chosen": null,
+        "primary": null,
+        "alternatives": []
+      },
+      "_meta": {
+        "frequency": "quarterly"
+      },
+      "FreeCashFlow": {
+        "chosen": {
+          "value": 565000000,
+          "unit": "USD",
+          "formula": "FreeCashFlow = OCF - abs(CapEx)",
+          "derived_from": [
+            {
+              "metric": "NetCashProvidedByUsedInOperatingActivities",
+              "source": "primary",
+              "tag": "NetCashProvidedByUsedInOperatingActivities",
+              "value": 578000000,
+              "unit": "USD",
+              "fy": 2025,
+              "fp": "Q2",
+              "form": "10-Q",
+              "filed": "2025-08-06",
+              "accn": "0001594805-25-000073",
+              "end": "2024-06-30",
+              "start": "2024-01-01"
+            },
+            {
+              "metric": "PaymentsToAcquirePropertyPlantAndEquipment",
+              "source": "primary",
+              "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+              "value": 13000000,
+              "unit": "USD",
+              "fy": 2025,
+              "fp": "Q2",
+              "form": "10-Q",
+              "filed": "2025-08-06",
+              "accn": "0001594805-25-000073",
+              "end": "2024-06-30",
+              "start": "2024-01-01"
+            }
+          ],
+          "source": "derived"
+        }
+      }
+    }
+  }
+}
