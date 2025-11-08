@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Search + Chatbot</title>
+
+  <!-- Inline CSS remains here -->
+  <style>
+    body {
+      background-image: url('https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1350&q=80');
+      background-size: cover;
+      background-attachment: fixed;
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+      padding-top: 80px;
+    }
+
+    input[type="text"] {
+      padding: 10px;
+      font-size: 16px;
+      width: 300px;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin: 10px;
+      cursor: pointer;
+      background-color: #007BFF;
+      border: none;
+      color: white;
+      border-radius: 5px;
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 20px;
+    }
+
+    /* Chatbot styles */
+    #chatIcon {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #007BFF;
+      color: white;
+      padding: 10px 15px;
+      border-radius: 50px;
+      cursor: pointer;
+    }
+
+    #chatWindow {
+      position: fixed;
+      bottom: 80px;
+      right: 20px;
+      width: 300px;
+      height: 350px;
+      background: white;
+      color: black;
+      border-radius: 10px;
+      padding: 10px;
+      display: none;
+      flex-direction: column;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    }
+
+    #chatMessages {
+      flex-grow: 1;
+      overflow-y: auto;
+      font-size: 14px;
+    }
+
+    #chatInput {
+      margin-top: 10px;
+      display: flex;
+    }
+
+    #chatInput input {
+      flex-grow: 1;
+      padding: 8px;
+      font-size: 14px;
+    }
+
+    #chatInput button {
+      padding: 8px;
+      background-color: #007BFF;
+      border: none;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <h1>Search Something</h1>
+  <input id="searchBox" type="text" placeholder="Type something..." />
+  <button onclick="sendSearch()">Search</button>
+  <button onclick="clearInput()">Delete</button>
+  <p id="result"></p>
+
+  <!-- Floating Chatbot -->
+  <div id="chatIcon" onclick="toggleChat()">💬 Chat</div>
+  <div id="chatWindow">
+    <div id="chatMessages"></div>
+    <div id="chatInput">
+      <input
+        id="chatField"
+        type="text"
+        placeholder="Ask me..."
+        onkeydown="if (event.key === 'Enter') sendChat()"
+      />
+      <button onclick="sendChat()">➤</button>
+    </div>
+  </div>
+
+  <!-- Include our external front-end JS (served from /static/main.js) -->
+  <script src="main.js"></script>
+</body>
+</html>
