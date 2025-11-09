@@ -39,10 +39,12 @@ def choose_revenue_substitute(CIK,target_label,top_n: int = 5) -> Optional[str]:
 
     print(f"\nTop semantic matches to missing tag concept ({CIK}) — COSINE")
     print("──────────────────────────────────────────────────────────────────")
+    #print(f"{ranking[0][0]}, similarity = {ranking[0][1]:.3f}")
+
     for i, (tag, sc) in enumerate(ranking, 1):
-        if i>1:
-              print(f"{i-1:>2}. {tag:<60}  similarity = {sc:.3f}")
+        if i<6:
+              print(f"{i}. {tag:<60}  similarity = {sc:.3f}")
     print("──────────────────────────────────────────────────────────────────")
-    print(f"Chosen substitute → {[item[0] for item in ranking[1:][:]]}" if ranking else "No candidate found.")
-    return [item[0] for item in ranking[1:][:]] if ranking else None
+    print(f"Chosen substitute → {ranking[0][0]}" if ranking else "No candidate found.")
+    return ranking[0][0] if ranking else None
     #return ranking if ranking else None
