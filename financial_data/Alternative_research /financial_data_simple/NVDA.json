@@ -7932,7 +7932,7 @@
           "tag": "Revenues",
           "form": "10-Q",
           "fy": 2026,
-          "value": 56084000000,
+          "value": 91166000000,
           "unit": "USD",
           "source": "primary_or_alt"
         },
@@ -7940,14 +7940,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "Revenues",
-            "value": 56084000000,
+            "value": 91166000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -7957,7 +7957,7 @@
           "tag": "NetIncomeLoss",
           "form": "10-Q",
           "fy": 2026,
-          "value": 31480000000,
+          "value": 50789000000,
           "unit": "USD",
           "source": "primary_or_alt"
         },
@@ -7965,14 +7965,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "NetIncomeLoss",
-            "value": 31480000000,
+            "value": 50789000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -7982,7 +7982,7 @@
           "tag": "EarningsPerShareBasic",
           "form": "10-Q",
           "fy": 2026,
-          "value": 1.28,
+          "value": 2.07,
           "unit": "USD/shares",
           "source": "primary_or_alt"
         },
@@ -7990,14 +7990,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "EarningsPerShareBasic",
-            "value": 1.28,
+            "value": 2.07,
             "unit": "USD/shares",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -8007,7 +8007,7 @@
           "tag": "EarningsPerShareDiluted",
           "form": "10-Q",
           "fy": 2026,
-          "value": 1.27,
+          "value": 2.04,
           "unit": "USD/shares",
           "source": "primary_or_alt"
         },
@@ -8015,14 +8015,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "EarningsPerShareDiluted",
-            "value": 1.27,
+            "value": 2.04,
             "unit": "USD/shares",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -8032,7 +8032,7 @@
           "tag": "OperatingIncomeLoss",
           "form": "10-Q",
           "fy": 2026,
-          "value": 35551000000,
+          "value": 57419000000,
           "unit": "USD",
           "source": "primary_or_alt"
         },
@@ -8040,14 +8040,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "OperatingIncomeLoss",
-            "value": 35551000000,
+            "value": 57419000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -8057,7 +8057,7 @@
           "tag": "GrossProfit",
           "form": "10-Q",
           "fy": 2026,
-          "value": 42979000000,
+          "value": 69135000000,
           "unit": "USD",
           "source": "primary_or_alt"
         },
@@ -8065,14 +8065,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "GrossProfit",
-            "value": 42979000000,
+            "value": 69135000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -8082,7 +8082,7 @@
           "tag": "ResearchAndDevelopmentExpense",
           "form": "10-Q",
           "fy": 2026,
-          "value": 5810000000,
+          "value": 9200000000,
           "unit": "USD",
           "source": "primary_or_alt"
         },
@@ -8090,14 +8090,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "ResearchAndDevelopmentExpense",
-            "value": 5810000000,
+            "value": 9200000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -8107,7 +8107,7 @@
           "tag": "SellingGeneralAndAdministrativeExpense",
           "form": "10-Q",
           "fy": 2026,
-          "value": 1618000000,
+          "value": 2516000000,
           "unit": "USD",
           "source": "primary_or_alt"
         },
@@ -8115,14 +8115,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "SellingGeneralAndAdministrativeExpense",
-            "value": 1618000000,
+            "value": 2516000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -8143,10 +8143,10 @@
             "value": 111601000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
             "end": "2025-01-26",
             "start": null
           }
@@ -8168,10 +8168,10 @@
             "value": 32274000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
             "end": "2025-01-26",
             "start": null
           }
@@ -8193,10 +8193,10 @@
             "value": 42978000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
             "end": "2024-01-28",
             "start": null
           }
@@ -8218,10 +8218,10 @@
             "value": 8589000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
             "end": "2025-01-26",
             "start": null
           }
@@ -8232,7 +8232,7 @@
           "tag": "NetCashProvidedByUsedInOperatingActivities",
           "form": "10-Q",
           "fy": 2026,
-          "value": 29833000000,
+          "value": 47460000000,
           "unit": "USD",
           "source": "primary_or_alt"
         },
@@ -8240,14 +8240,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "NetCashProvidedByUsedInOperatingActivities",
-            "value": 29833000000,
+            "value": 47460000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -8283,10 +8283,10 @@
             "value": 8463000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
             "end": "2025-01-26",
             "start": null
           }
@@ -8304,7 +8304,7 @@
           "tag": "CostOfRevenue",
           "form": "10-Q",
           "fy": 2026,
-          "value": 13105000000,
+          "value": 22031000000,
           "unit": "USD",
           "source": "primary_or_alt"
         },
@@ -8312,14 +8312,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "CostOfRevenue",
-            "value": 13105000000,
+            "value": 22031000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -8329,7 +8329,7 @@
           "tag": "OperatingExpenses",
           "form": "10-Q",
           "fy": 2026,
-          "value": 7428000000,
+          "value": 11716000000,
           "unit": "USD",
           "source": "primary_or_alt"
         },
@@ -8337,14 +8337,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "OperatingExpenses",
-            "value": 7428000000,
+            "value": 11716000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -8354,7 +8354,7 @@
           "tag": "IncomeTaxExpenseBenefit",
           "form": "10-Q",
           "fy": 2026,
-          "value": 5013000000,
+          "value": 8020000000,
           "unit": "USD",
           "source": "primary_or_alt"
         },
@@ -8362,14 +8362,14 @@
           "10-K": null,
           "10-Q": {
             "tag": "IncomeTaxExpenseBenefit",
-            "value": 5013000000,
+            "value": 8020000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
-            "end": "2024-07-28",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
+            "end": "2024-10-27",
             "start": "2024-01-29"
           }
         }
@@ -8390,10 +8390,10 @@
             "value": 23065000000,
             "unit": "USD",
             "fy": 2026,
-            "fp": "Q2",
+            "fp": "Q3",
             "form": "10-Q",
-            "filed": "2025-08-27",
-            "accn": "0001045810-25-000209",
+            "filed": "2025-11-19",
+            "accn": "0001045810-25-000230",
             "end": "2025-01-26",
             "start": null
           }
@@ -8401,7 +8401,7 @@
       },
       "FreeCashFlow": {
         "chosen": {
-          "value": 29592000000,
+          "value": 47219000000,
           "unit": "USD",
           "formula": "OCF - abs(CapEx)",
           "source": "derived"

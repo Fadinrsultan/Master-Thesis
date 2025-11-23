@@ -7,12 +7,13 @@ from cosine_similarity_selection import choose_revenue_substitute  # your functi
 # --------------- CONFIG ---------------
 HEADERS = {"User-Agent": "FinancialDataCollector/1.0 (eng.sultan.fadi@gmail.com)"}
 SEC_TICKER_URL = "https://www.sec.gov/files/company_tickers.json"
-OUT_DIR = "financial_csv_10000y"
+OUT_DIR = "financial_csv_final_y"
 os.makedirs(OUT_DIR, exist_ok=True)
 
-TICKERS = ["NVDA"]
+#TICKERS = ["NVDA"]
+TICKERS = [ "NVDA","MSFT","AAPL","AMZN","META","AVGO","GOOGL","GOOG","TSLA","NFLX", "PLTR","COST","ASML","CSCO","TMUS","AMD","AZN","LIN","APP","SHOP", "PEP","INTU","PDD","MU","QCOM","BKNG","TXN","LRCX","ISRG","ADBE", "AMGN","AMAT","ARM","GILD","PANW","INTC","KLAC","HON","CRWD","MELI", "ADI","ADP","CMCSA","DASH","CEG","CDNS","VRTX","MSTR","SBUX","SNPS", "ORLY","MDLZ","CTAS","ABNB","TRI","MAR","ADSK","PYPL","FTNT","MRVL", "REGN","MNST","WDAY","CSX","AXON","AEP","NXPI","FAST","ROP","IDXX", "PCAR","DDOG","WBD","ROST","PAYX","BKR","ZS","TTWO","TEAM","CPRT", "EXC","EA","XEL","CCEP","FANG","CSGP","KDP","CHTR","MCHP","GEHC", "VRSK","CTSH","KHC","ODFL","DXCM","TTD","CDW","BIIB","ON","LULU","GFS" ]
 
-YEARS_BACK = 2
+YEARS_BACK = 10
 SLEEP_BETWEEN_CALLS = 0.15
 
 METRICS = [

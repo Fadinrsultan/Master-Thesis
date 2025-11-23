@@ -45,6 +45,6 @@ def choose_revenue_substitute(CIK,target_label,top_n: int = 5) -> Optional[str]:
         if i<6:
               print(f"{i}. {tag:<60}  similarity = {sc:.3f}")
     print("──────────────────────────────────────────────────────────────────")
-    print(f"Chosen substitute → {ranking[0][0]}" if ranking else "No candidate found.")
-    return ranking[0][0] if ranking else None
+    print(f"Chosen substitute → {(ranking[0][0] if ranking[0][1] < 1.0 else ranking[1][0])}" if ranking else "No candidate found.")
+    return ranking[0][0] if ranking[0][1] < 1.0 else ranking[1][0]
     #return ranking if ranking else None
